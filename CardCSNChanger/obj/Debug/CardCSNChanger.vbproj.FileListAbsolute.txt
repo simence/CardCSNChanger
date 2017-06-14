@@ -1,0 +1,10 @@
+E:\Program Dev\CardCSNChange\CardCSNChanger\CardCSNChanger\bin\Debug\CardCSNChanger.exe.config
+E:\Program Dev\CardCSNChange\CardCSNChanger\CardCSNChanger\bin\Debug\CardCSNChanger.exe
+E:\Program Dev\CardCSNChange\CardCSNChanger\CardCSNChanger\bin\Debug\CardCSNChanger.pdb
+E:\Program Dev\CardCSNChange\CardCSNChanger\CardCSNChanger\bin\Debug\CardCSNChanger.xml
+E:\Program Dev\CardCSNChange\CardCSNChanger\CardCSNChanger\obj\Debug\CardCSNChanger.Resources.resources
+E:\Program Dev\CardCSNChange\CardCSNChanger\CardCSNChanger\obj\Debug\CardCSNChanger.vbproj.GenerateResource.Cache
+E:\Program Dev\CardCSNChange\CardCSNChanger\CardCSNChanger\obj\Debug\CardCSNChanger.exe
+E:\Program Dev\CardCSNChange\CardCSNChanger\CardCSNChanger\obj\Debug\CardCSNChanger.xml
+E:\Program Dev\CardCSNChange\CardCSNChanger\CardCSNChanger\obj\Debug\CardCSNChanger.pdb
+E:\Program Dev\CardCSNChange\CardCSNChanger\CardCSNChanger\obj\Debug\CardCSNChanger.ChangeCSNNumber.resources
